@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OO/0 - Primeira_Classe/0 - Primeira_Classe.iml" filepath="$PROJECT_DIR$/OO/0 - Primeira_Classe/0 - Primeira_Classe.iml" />
       <module fileurl="file://$PROJECT_DIR$/OO/1-Istanciando_Objeto/1-Istanciando_Objeto.iml" filepath="$PROJECT_DIR$/OO/1-Istanciando_Objeto/1-Istanciando_Objeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OO/3 - Valores_default_de_atributos/3 - Valores_default_de_atributos.iml" filepath="$PROJECT_DIR$/OO/3 - Valores_default_de_atributos/3 - Valores_default_de_atributos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Rasmooo.iml" filepath="$PROJECT_DIR$/.idea/Rasmooo.iml" />
     </modules>
   </component>
