@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OO/1-Istanciando_Objeto/1-Istanciando_Objeto.iml" filepath="$PROJECT_DIR$/OO/1-Istanciando_Objeto/1-Istanciando_Objeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/OO/Primeira_Classe/Primeira_Classe.iml" filepath="$PROJECT_DIR$/OO/Primeira_Classe/Primeira_Classe.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Rasmooo.iml" filepath="$PROJECT_DIR$/.idea/Rasmooo.iml" />
     </modules>
